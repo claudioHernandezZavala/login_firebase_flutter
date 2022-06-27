@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332186800292",
+    "project_id": "loginpractica-16395",
+    "storage_bucket": "loginpractica-16395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332186800292:android:b0c68c7fa8b2baf856d631",
+        "android_client_info": {
+          "package_name": "com.example.loginpractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332186800292-2817vbtdbjdhl4ll0rkn15o8cjij2334.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpractica",
+            "certificate_hash": "4c41cac3923f38482e9c808f4a91cfda653fd90c"
+          }
+        },
+        {
+          "client_id": "332186800292-bfhk1fg0gqd9ve50trce3s0jkvj28rhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvm4tWCsc0bKQxukeeI7hb9ZBUvzYktM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332186800292-bfhk1fg0gqd9ve50trce3s0jkvj28rhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
